@@ -1,2 +1,1 @@
-
-CC cv ui et twa pk ez
+REMOTE
